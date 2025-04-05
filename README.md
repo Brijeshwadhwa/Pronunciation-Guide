@@ -1,0 +1,1 @@
+This project is a full-stack pronunciation chatbot that uses Flask, HTML/CSS, JavaScript, and integrates audio pronunciation with gTTS. It also fetches synonyms, difficulty, and examples for any searched word.
